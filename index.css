@@ -2,10 +2,11 @@
 body {
     background-color: rgb(155, 189, 199)    
 }
-#titulo {
-    font-family: 'Barlow', sans-serif;
-}
 .p1 {
     font-family: 'Playfair Display', serif;
     font-weight: 600;
+}
+.titulo {
+    font-family: 'Barlow', sans-serif;
+    font-weight: 700;
 }
